@@ -1,5 +1,9 @@
 CHANGELOG
 =========
+Version 0.0.5
+* Provides support for Rails 4
+Version 0.0.4
+* Fixes an incompatibility with postgresql
 Version 0.0.3
   * Provides Support for Rails 3.2
 
